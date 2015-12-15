@@ -1,12 +1,6 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package jenkins;
-/**
- *
- * @author dc1415daw2
- */
+
 import java.io.*;
 public class Jenkins {
     /**
